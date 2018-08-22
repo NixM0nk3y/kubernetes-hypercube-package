@@ -6,7 +6,7 @@
 VERSION="1.11.2"
 BUILD="openenterprise1"
 CONTACT="Nick Gregory <package@openenterprise.co.uk>"
-PACKAGE_NAME="kubernetes-hypercube"
+PACKAGE_NAME="kubernetes-hyperkube"
 
 HYPERCUBE_IMAGE=${VARIABLE:-gcr.io/google-containers/hyperkube-arm:v1.11.2}
 
